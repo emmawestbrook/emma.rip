@@ -1,0 +1,22 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+@layer base {
+    body {
+        background-color: peachpuff;
+    }
+    h1 {
+        color: #c65127;
+    }
+}
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write you own custom component styles here */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */
