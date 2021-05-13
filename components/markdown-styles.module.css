@@ -4,9 +4,12 @@
 
 .markdown p,
 .markdown ul,
-.markdown ol,
+.markdown ol {
+  @apply my-6 font-syne;
+}
+
 .markdown blockquote {
-  @apply my-6;
+  @apply my-6 font-mono;
 }
 
 .markdown h2 {
@@ -14,5 +17,5 @@
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-2xl mt-8 mb-4 leading-snug font-mono;
 }

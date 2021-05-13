@@ -40,7 +40,7 @@ export default function Meta() {
         href="https://fonts.googleapis.com/css2?family=Syne+Mono&family=Syne+Tactile&family=Syne:wght@400;800&display=swap" rel="stylesheet" />
       <meta
         name="description"
-        content={`Emma Westbrook`}
+        content={`emma.rip`}
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>

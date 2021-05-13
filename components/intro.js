@@ -7,13 +7,13 @@ export default function Intro() {
         emma.
         <a
           href="/blog"
-          className="text-3xl md:text-5xl underline hover:text-tomato font-mono duration-200 transition-colors"
+          className="text-3xl md:text-5xl underline hover:text-blue font-mono duration-200 transition-colors"
         >rip
         </a>{' '}
       </h1>
       <a
         href="/"
-        className=""
+        className="mt-4 md:mt-0"
       >
         <Image className="" src='/sun.png' width='100px' height='100px' />
 

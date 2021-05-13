@@ -8,11 +8,10 @@ module.exports = {
         tactile: ['Syne Tactile', 'cursive']
       },
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
+        peachpuff: '#ffdab9',
+        orange: '#c65227',
         success: '#c65227',
-        cyan: '#79FFE1',
+        blue: '#457B9D',
         tomato: 'tomato'
       },
       spacing: {

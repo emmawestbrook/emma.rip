@@ -22,7 +22,7 @@ export default function Index({ allPosts }) {
             <Intro />
 
           </div>
-          {/* <Homepage /> */}
+          <Homepage />
           {/* {heroPost && (
             <HeroPost
               title={heroPost.title}
