@@ -22,19 +22,19 @@ export default function HeroPost({
           width={1240}
         />
       </div>
-      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28">
+      <div className="md:grid md:grid-cols-2 md:gap-x-16 lg:gap-x-8 mb-20 md:mb-28 border-tomato">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
+          <h3 className="mb-4 text-4xl lg:text-6xl leading-tight font-mono">
             <Link as={`/posts/${slug}`} href="/posts/[slug]">
               <a className="hover:underline">{title}</a>
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
+          <div className="mb-4 md:mb-0 text-lg font-tactile">
             <DateFormatter dateString={date} />
           </div>
         </div>
         <div>
-          <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
+          <p className="text-lg leading-relaxed mb-4 font-syne">{excerpt}</p>
           <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>

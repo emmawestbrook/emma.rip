@@ -13,6 +13,7 @@ module.exports = {
         'accent-7': '#333',
         success: '#c65227',
         cyan: '#79FFE1',
+        tomato: 'tomato'
       },
       spacing: {
         28: '7rem',
