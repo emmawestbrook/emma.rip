@@ -1,1 +1,0 @@
-{"ast":null,"code":"export const EXAMPLE_PATH = 'blog-starter';\nexport const CMS_NAME = 'Markdown';\nexport const HOME_OG_IMAGE_URL = '/skeleton.png';","map":null,"metadata":{},"sourceType":"module"}
