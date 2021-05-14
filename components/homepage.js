@@ -7,7 +7,7 @@ export default function Homepage() {
             <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
                 some of{' '}
                 <a
-                    href="/blog"
+                    href="/thots"
                     className="underline hover:text-success font-mono duration-200 transition-colors"
                 >
                     my thoughts

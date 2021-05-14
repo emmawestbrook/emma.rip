@@ -18,7 +18,7 @@ export default function Index({ allPosts }) {
           <title>emma.rip</title>
         </Head>
         <Container>
-          <div className="mt-96 homepage">
+          <div className=" homepage">
             <Intro />
 
           </div>

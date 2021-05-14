@@ -6,14 +6,14 @@ export default function Intro() {
       <h1 className="text-5xl md:text-7xl font-tactile tracking-tighter leading-tight md:pr-8">
         emma.
         <a
-          href="/blog"
+          href="/thots"
           className="text-3xl md:text-5xl underline hover:text-blue font-mono duration-200 transition-colors"
         >rip
         </a>{' '}
       </h1>
       <a
         href="/"
-        className="mt-4 md:mt-0"
+        className="mt-4 md:mt-0 ring-2 rounded-full ring-dashed ring-orange px-2 pt-2 pb-1"
       >
         <Image className="" src='/sun.png' width='100px' height='100px' />
 

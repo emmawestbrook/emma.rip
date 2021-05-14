@@ -7,10 +7,10 @@ export default function Layout({ preview, children }) {
   return (
     <>
       <Meta />
-      <div className="min-h-full">
+      <div className="">
         <main>{children}</main>
       </div>
-      <Footer />
+      <Footer className="" />
     </>
   )
 }
