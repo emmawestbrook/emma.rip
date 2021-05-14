@@ -18,10 +18,6 @@ export default function Index({ allPosts }) {
           <title>emma.rip</title>
         </Head>
         <Container>
-          <div className=" homepage">
-            <Intro />
-
-          </div>
           <Homepage />
           {/* {heroPost && (
             <HeroPost

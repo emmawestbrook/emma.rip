@@ -18,5 +18,12 @@
 /* Start purging... */
 @tailwind utilities;
 /* Stop purging. */
-
+    /* @variants hover, focus {
+        .filter-none {
+        filter: none;
+        }
+        .filter-rotate {
+        --tw-hue-rotate: hue-rotate(15deg);
+        }
+    } */
 /* Your own custom utilities */

@@ -39,7 +39,10 @@ module.exports = {
         '1/2': '50%',
         '3/4': '75%',
         'full': '100%',
-      }
+      },
+      filter: ['hover', 'focus'],
+      hueRotate: ['hover', 'focus'],
+      display: ['hover', 'focus']
     },
   },
 }

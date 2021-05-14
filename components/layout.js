@@ -10,7 +10,7 @@ export default function Layout({ preview, children }) {
       <div className="">
         <main>{children}</main>
       </div>
-      <Footer className="" />
+      <Footer />
     </>
   )
 }
