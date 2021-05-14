@@ -18,7 +18,7 @@ export default function Index({ allPosts }) {
           <title>emma.rip</title>
         </Head>
         <Container>
-          <Homepage />
+          <Homepage className="min-h-full" />
           {/* {heroPost && (
             <HeroPost
               title={heroPost.title}
