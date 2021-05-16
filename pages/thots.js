@@ -14,12 +14,7 @@ export default function Thots({ allPosts }) {
     return (
         <>
             <Layout>
-                <Head>
-                    <title>Emma Westbrook</title>
-                </Head>
-                <Intro />
-
-                <Container>
+                <Container className="">
                     {/* {heroPost && (
                         <HeroPost
                             title={heroPost.title}
