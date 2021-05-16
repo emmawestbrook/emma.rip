@@ -8,6 +8,7 @@ export default function Arts() {
                 <h1 className="text-5xl md:text-7xl font-tactile tracking-tighter leading-tight ">
                     this page is coming soon.
              </h1>
+
             </section>
         </Layout>
     )
