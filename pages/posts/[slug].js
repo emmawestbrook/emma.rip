@@ -10,6 +10,7 @@ import PostTitle from '../../components/post-title'
 import Head from 'next/head'
 import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
+import Intro from '../../components/intro'
 
 export default function Post({ post, morePosts, preview }) {
   const router = useRouter()
@@ -19,12 +20,12 @@ export default function Post({ post, morePosts, preview }) {
   return (
     <Layout preview={preview}>
       <Container>
-        <Header />
+        {/* <Intro /> */}
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="mb-32 justify-center">
               <Head>
                 <title>
                   {post.title}
