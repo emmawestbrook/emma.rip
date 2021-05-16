@@ -10,9 +10,7 @@ module.exports = {
       colors: {
         peachpuff: '#ffdab9',
         orange: '#c65227',
-        success: '#c65227',
-        blue: '#457B9D',
-        tomato: 'tomato'
+        blue: '#26547C'
       },
       spacing: {
         28: '7rem',
@@ -39,10 +37,12 @@ module.exports = {
         '1/2': '50%',
         '3/4': '75%',
         'full': '100%',
-      },
-      filter: ['hover', 'focus'],
-      hueRotate: ['hover', 'focus'],
-      display: ['hover', 'focus']
+      }
     },
+  },
+  variants: {
+    borderStyle: ['hover'],
+    saturate: ['hover'],
+    grayscale: ['hover']
   },
 }
