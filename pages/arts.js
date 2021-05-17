@@ -4,8 +4,8 @@ import Layout from '../components/layout'
 export default function Arts() {
     return (
         <Layout>
-            <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
-                <h1 className="text-5xl md:text-7xl font-tactile tracking-tighter leading-tight ">
+            <section className="text-center md:text-left py-16">
+                <h1 className="text-5xl md:text-7xl font-tactile ">
                     this page is coming soon.
              </h1>
 
