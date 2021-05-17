@@ -13,7 +13,7 @@ export default function Homepage() {
                 a link to my <a className="font-tactile underline" href="https://www.last.fm/user/bog_hag">last.fm</a> if you'd like to see what i've been listening to lately.
             </h2>
             <h2 className="text-xl pt-6">
-                some other things i like include medieval illuminated books of hours, pungent cheeses, and books with dragons in them.
+                some other things i like include medieval illuminated manuscripts, pungent cheeses, and books with dragons in them.
             </h2>
             <div className="text-md my-16 text-orange font-tactile">
                 (<p className="text-xs font-syne inline"> this website was made with next.js and tailwind. it's deployed on netlify. the background color is peachpuff.
