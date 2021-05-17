@@ -2,7 +2,7 @@
 title: '“Sunshower”—Taeko Ohnuki (1977)'
 excerpt: 'This is a record that’s perfect for driving around on a sunny day with big puffy clouds above you and somebody nice in the passenger seat.'
 coverImage: '/assets/blog/albums/sunshower.jpg'
-date: '2020-05-01T05:35:07.322Z'
+date: '2019-06-05T05:35:07.322Z'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'

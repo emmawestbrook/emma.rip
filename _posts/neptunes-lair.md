@@ -1,0 +1,25 @@
+---
+title: '“Neptunes Lair” – Drexciya (1999)'
+excerpt: 'Music like this can wrestle with big ideas just as effectively as something you’d find in a critical theory essay. Perhaps even more so, because its philosophical heft kind of sneaks up on you.'
+coverImage: '/assets/blog/albums/neptuneslair.jpg'
+date: '2020-10-08T05:35:07.322Z'
+author:
+  name: Emma
+  picture: '/assets/blog/authors/emma.jpeg'
+ogImage:
+  url: '/assets/blog/albums/neptuneslair.jpg'
+---
+
+I have been thinking a lot lately about the increasingly popular term “speculative fiction”–media and texts that imagine different possibilities of the future or of our current understanding the world. I am specifically drawn to those engaged with real issues that affect our lived experiences–historical trauma, gender dynamics, racial oppression, and other kinds of real inequality. Ursula K. LeGuin’s The Left Hand of Darkness strikes me as a perfect example of this–it serves to imagine the extensive consequences of living in a society without gender, and how alien our gendered experience would seem in comparison.
+
+Another perfect example of this kind of speculative fiction comes in the form of the Detroit techno/house group Drexciya, comprised of members James Stinson and Gerald Donald. A lot of ink has been spilled about this project, but their music is something I think even more people should be listening to and thinking about. According to the mythology constructed by the artists, Drexciya is the name of a country within the Black Atlantic, a network of underwater societies whose inhabitants are descended from the unborn children of pregnant African women thrown over the side of slave ships. Their fetuses learned to breathe in the water of the womb, and later the water of the Atlantic ocean, and developed an extremely technologically advanced society under the waves. The sounds on the album build into this narrative–the Drexciyans have perfected sonic weapons in their war against other nations of the Black Atlantic. Certain songs also feature audio of daily life (see “Bubble Metropolis” from 1993 for Drexciyan aquabahn traffic-control).
+
+This kind of speculative fiction is extremely powerful. It takes the unimaginable trauma of millions of Africans and re-frames the narrative as one of gained power, as well as highlighting the similarities between the kidnapping of Africans and the kind of alien invasion so often featured in traditional science fiction. Science fiction speculates about the worst possible outcomes–armageddon, apocalypse, hostile invasion–when these unimaginables have historically been reality for millions. I think Mark Sinker sums it up perfectly in his 1992 essay “Loving the Alien” (which you can read in its entirety [here](https://href.li/?http://web.archive.org/web/20060209100352/http://www.thewire.co.uk/archive/essays/black_science_fiction.html)):
+
+> “The ships landed long ago: they already laid waste whole societies, abducted and genetically altered swathes of citizenry, imposed without surcease their values. Africa and America -and so by extension Europe and Asia - are already in their various ways Alien Nation. No return to normal is possible: what “normal” is there to return to? Part of the story of black music (the affirmative, soul-gospel aspect) has always been this - that losing everything except basic dignity and decency is potentially a survivable disaster.”
+
+Ok so–this seems like a lot of hefty intellectual weight to be carried by what is, at its core, a dance record. But there’s a lot of intellectually hefty dance music, from Afrofuturist techno to DJ Sprinkles’ Midtown 120 Blues (maybe the subject of a future post on this blog). I think it’s important to recognize that music like this can wrestle with big ideas just as effectively as something you’d find in a sound installation in an art museum, or in a critical theory essay. Perhaps even more so, because its philosophical heft kind of sneaks up on you.
+
+There is so much to say about this record’s place in Afrofuturist worldbuilding traditions, in Detroit techno music, etc… but what does it sound like? From the moment you are dropped into the intro’s chanting drone and bubbly speech samples, the deep dark ocean imagery comes to mind easily. Acid-y breakbeat with submarine pings really set this record firmly in a 90s tradition of dance music. Some of these songs (“Andreaen Sand Dunes”) are built upon very pretty synth riffs, whereas others are rooted in more abrasive mechanical whirring (“Drifting into a Time of No Future”). Throughout the record, however, funk and disco remain bubbling below the surface, infusing this record with just straight-out fun (“Jazzy Fluids” has this great moment of silence followed by an adorable tinkly synth line… great stuff). Do yourself a favor and next time you need to really focus on something (or boogie) slap this record on.
+
+The song featured below is not on this record–it was recorded in 1992–but it was part of a larger re-release of older singles of theirs, and it’s my favorite song they recorded, so I had to share.
