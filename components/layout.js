@@ -11,7 +11,7 @@ export default function Layout({ preview, children }) {
       <Meta />
       <Container>
         <div id="content" className="content sm:flex py-10">
-          <div className=" sm:object-left sm:grid-cols-3 sm:pr-8">
+          <div className=" sm:object-left sm:grid-cols-3 sm:pr-16 lg:pl-4">
             <Sidebar />
           </div>
           <div className=" sm:grid-cols-9">

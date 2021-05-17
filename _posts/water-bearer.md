@@ -1,6 +1,6 @@
 ---
 title: '“Water Bearer”—Sally Oldfield (1978)'
-excerpt: 'a silly, beautiful, and beloved record from 1978.'
+excerpt: 'A silly, beautiful, and beloved record from 1978.'
 coverImage: '/assets/blog/albums/sally.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -14,4 +14,4 @@ This is a silly, beautiful, and beloved record from 1978. Sally Oldfield comes f
 
 “Songs of the Quendi” is a four-part ballad that is literally about Tolkien’s Elves from *The Lord of the Rings* (the “Quendi” refers to the name the Elves gave themselves upon first awakening, meaning “those who speak in voices”). The lyrics, often in Elvish, refer to the three rings of power bestowed upon the race of Elves, Galadriel’s return to the Undying Lands, and the Elves’ rich relationship with the land and the forest. Suffice it to say she loves Tolkien!
 
-The second side of this record continues to be characterized by ornate guitar, funky synths, and Sally’s lilting and acrobatic voice, which has a remarkable range. Part of what makes this record so wholehearted to me lies in the quality of Oldfield’s voice, which bounces between throaty lows and dreamlike highs in a constant vibrato. Sally has a remarkable instinct for theatrics and drama, which means this record feels akin to a troubadour’s medieval lyric-poem. This is one of my favorite albums of all time… please give it a listen!
+The second side of this record continues to be characterized by ornate guitar, funky synths, and Sally’s lilting and acrobatic voice, which has a remarkable range. Part of what makes this record so wholehearted to me lies in the quality of Oldfield’s voice, which bounces between throaty lows and dreamlike highs in a constant vibrato. Sally has a remarkable instinct for theatrics and drama, which means this record feels akin to a troubadour’s medieval lyric-poem. This is one of my favorite albums of all time… please give it a listen (here!)[https://www.youtube.com/watch?v=W-kZaox6IVo&list=OLAK5uy_kjwVHmuTRYpZDBsKB5oYq5C-yaRYZKKXc]

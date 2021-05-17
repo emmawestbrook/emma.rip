@@ -13,7 +13,7 @@
 }
 
 .markdown blockquote {
-  @apply font-mono text-blue mx-6 my-6;
+  @apply font-mono border-l-2 border-orange mx-6 my-6;
 }
 
 .markdown h2 {

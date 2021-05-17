@@ -1,6 +1,6 @@
 ---
 title: '“Neptunes Lair” – Drexciya (1999)'
-excerpt: 'Music like this can wrestle with big ideas just as effectively as something you’d find in a critical theory essay. Perhaps even more so, because its philosophical heft kind of sneaks up on you.'
+excerpt: 'From the moment you are dropped into the intro’s chanting drone and bubbly speech samples, the deep dark ocean imagery comes to mind easily. Acid-y breakbeat with submarine pings really set this record firmly in a 90s tradition of dance music.'
 coverImage: '/assets/blog/albums/neptuneslair.jpg'
 date: '2020-10-08T05:35:07.322Z'
 author:

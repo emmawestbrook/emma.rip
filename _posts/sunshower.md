@@ -18,4 +18,4 @@ Taeko Ohnuki (大貫妙子) began her career with the band SUGAR BABE, whose mem
 
 At the time of *SUNSHOWER*’s release, Ohnuki’s career as a singer and songwriter was just getting started, but she went on to collaborate with some of Japan’s most influential musicians such as Ryuichi Sakamoto and other members of Yellow Magic Orchestra.
 
-I would recommend throwing this album on your stereo and giving it a listen on a summer’s day drive–or using it as an escape during the cold, dark depths of winter!
+I would recommend throwing this album on your stereo and giving it a listen on a summer’s day drive–or using it as an escape during the cold, dark depths of winter! Listen here.](https://www.youtube.com/watch?v=98fqXx-KFgI)

@@ -18,6 +18,11 @@ export default function Links() {
                 so many amazing works live here, and the site is coded in a beautifully simple way! i particularly like the <a className="font-mono hover:underline" href="https://www.ubuweb.com/outsiders/ass.html">outsiders</a> section.
             </div>
             <div className="mx-6 my-6">
+                <a href="https://fruitful.school/" className="hover:text-blue text-orange font-mono text-center duration-300 transition-colors">
+                    fruitful.school
+                </a> — fruit emoji clock!!
+            </div>
+            <div className="mx-6 my-6">
                 <a href="http://luckysoap.com/statements/handmadeweb.html" className="hover:text-blue text-orange font-mono text-center duration-300 transition-colors">
                     the handmade web
                 </a> — part of what inspired me to make this site. as an artist and printmaker i like to think of these kinds of sites as digital zines.
