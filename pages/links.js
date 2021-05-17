@@ -37,6 +37,11 @@ export default function Links() {
                     href.cool
                 </a> — the perfect way to spend an hour clicking around.
             </div>
+            <div className="mx-6 my-6">
+                <a href="https://elliott.computer/" className="hover:text-blue text-orange font-mono text-center duration-300 transition-colors">
+                    elliott cost's work
+                </a> — i love all of elliott's sites, for both their style and substance.
+            </div>
 
 
 

@@ -15,11 +15,12 @@ export default function Homepage() {
             <h2 className="text-xl pt-6">
                 some other things i like include medieval art, egg-based dishes, and books with dragons in them.
             </h2>
-            <div className="text-md mt-16 text-orange font-tactile">
+            <div className="text-md my-16 text-orange font-tactile">
                 (<p className="text-xs font-syne inline"> this website was made with next.js and tailwind. <br></br>the background color
                 is peachpuff. <br></br><a href="https://github.com/emmawestbrook/emma.rip" className="font-mono hover:underline">here's the source code.</a>
                 </p> )
             </div>
+            <a className="text-peachpuff " href="https://www.ubuweb.com/outsiders/ass/Crumberry-Sause.jpg">cr'mberry sause</a>
         </section>
     )
 }
