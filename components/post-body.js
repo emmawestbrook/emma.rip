@@ -7,6 +7,7 @@ export default function PostBody({ content }) {
         className={markdownStyles['markdown']}
         dangerouslySetInnerHTML={{ __html: content }}
       />
+      <div className="text-center">♪♫♬</div>
     </div>
   )
 }

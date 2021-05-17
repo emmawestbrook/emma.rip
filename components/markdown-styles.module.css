@@ -8,8 +8,12 @@
   @apply my-6 font-syne;
 }
 
+.markdown p {
+  @apply ml-6;
+}
+
 .markdown blockquote {
-  @apply my-6 font-mono;
+  @apply font-mono text-blue mx-6 my-6;
 }
 
 .markdown h2 {
@@ -18,4 +22,8 @@
 
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug font-mono;
+}
+
+.markdown a {
+  @apply font-mono underline;
 }
