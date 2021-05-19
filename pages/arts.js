@@ -2,6 +2,56 @@ import Image from 'next/image'
 import Layout from '../components/layout'
 import Artwork from '../components/artwork'
 export default function Arts() {
+    let artwork = [
+        {
+            title: 'annunciation of crotchwink',
+            date: '2020',
+            medium: 'gouache',
+            image: 'annunciation.jpg'
+        },
+        {
+            title: 'wizard crotchwink comes home',
+            date: '2019',
+            medium: 'gouache',
+            image: 'crotchwink.jpg'
+        },
+        {
+            title: 'spirit ii',
+            date: '2018',
+            medium: 'ink and gold leaf',
+            image: 'spiritii.jpg'
+        },
+        {
+            title: 'spirit i',
+            date: '2018',
+            medium: 'ink and gold leaf',
+            image: 'spiriti.jpg'
+        },
+        {
+            title: 'cowboy',
+            date: '2018',
+            medium: 'lithograph',
+            image: 'cowboy.jpg'
+        },
+        {
+            title: 'drifter',
+            date: '2018',
+            medium: 'lithograph',
+            image: 'drifter.jpg'
+        },
+        {
+            title: "melencolia '97",
+            date: '2018',
+            medium: 'screenprint',
+            image: 'melencolia97.jpg'
+        },
+        {
+            title: 'i hope you think of me sometimes',
+            date: '2018',
+            medium: 'screenprint',
+            image: 'angel.jpg'
+        }
+    ];
     return (
         <Layout>
             <section className="text-center md:text-left">
@@ -9,12 +59,19 @@ export default function Arts() {
                     this page is coming soon.
              </h1>
                 <div className="grid grid-cols-1 lg:grid-cols-2 lg:mx-8 lg:gap-x-8 gap-y-4 mb-32 ">
+                    {artwork.map((art) => (
+                        <div className="border px-4 py-4  border-orange border-dashed">
+                            <div className="mb-5">
+                                <img className="" src={'/assets/artwork/' + art.image} layout='fill' objectFit='contain' sizes='100' />
 
-                    <Artwork />
-                    <Artwork />
-                    <Artwork />
-                    <Artwork />
-                    <Artwork />
+                            </div>
+                            <h3 className="text-3xl font-mono text-blue">{art.title}</h3>
+                            <div className="text-lg font-tactile">{art.medium}</div>
+                            <div className="text-lg font-tactile">{art.date}</div>
+
+                        </div>
+                    ))}
+
                 </div>
             </section>
         </Layout>
