@@ -65,7 +65,7 @@ export default function Arts() {
                                 <img className=" pt-8 lg:py-8 max-w-100 xl:max-w-screen-sm max-h-600" src={'/assets/artwork/' + art.image} />
 
                             </div>
-                            <div className="mb-8 lg:pt-24 text-center lg:text-left">
+                            <div className="mb-8 lg:pt-24 text-center md:text-left">
                                 <div className=" px-6 py-6 border border-orange border-dashed ">
                                     <h3 className="text-2xl font-mono text-blue">{art.title}</h3>
                                     <div className="text-lg pt-4 font-tactile">{art.medium}</div>
