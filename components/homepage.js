@@ -9,7 +9,7 @@ export default function Homepage() {
             </h2>
             <h2 className="text-xl pt-6">
                 i also like to write about music sometimes.
-                i've got some album reviews, and other things, on this site in the thots section. <div className="inline text-xs">haha</div> here's
+                i've got some album reviews on this site in the thots section. <div className="inline text-xs">haha</div> here's
                 a link to my <a className="font-tactile underline" href="https://www.last.fm/user/bog_hag">last.fm</a> if you'd like to see what i've been listening to lately.
             </h2>
             <h2 className="text-xl pt-6">
