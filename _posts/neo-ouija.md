@@ -1,8 +1,8 @@
 ---
-title: '“Neo Ouija” – Metamatics (1998)'
+title: '“Neo Ouija” – Metamatics'
 excerpt: 'Quiet and slightly melancholy late-nineties IDM, with a bit of a wonky leftfield attitude.'
 coverImage: '/assets/blog/albums/neoouija.jpg'
-date: '2021-01-12T05:35:07.322Z'
+date: '1998'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'

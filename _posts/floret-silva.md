@@ -1,8 +1,8 @@
 ---
-title: '“Floret Silva”– Kay Hoffman (1985)'
+title: '“Floret Silva”– Kay Hoffman'
 excerpt: 'A gorgeous experiment in revisiting the music of the past with the knowledge and bias of the present.'
 coverImage: '/assets/blog/albums/floretsilva.jpg'
-date: '2021-03-06T05:35:07.322Z'
+date: '1985'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'

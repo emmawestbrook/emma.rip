@@ -1,8 +1,8 @@
 ---
-title: '“Paraiso”—Harry Hosono and The Yellow Magic Band (1978)'
+title: '“Paraiso”—Harry Hosono and The Yellow Magic Band'
 excerpt: 'An absolutely perfect–if bizzare–summer album.'
 coverImage: '/assets/blog/albums/paraiso.jpg'
-date: '2020-06-13T05:35:07.322Z'
+date: '1978'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'

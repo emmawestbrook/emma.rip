@@ -55,7 +55,7 @@ export default function Arts() {
     return (
         <Layout>
             <section className="">
-                <h1 className="text-5xl md:text-7xl font-tactile mb-16 text-center md:text-left">
+                <h1 className="text-5xl md:text-7xl font-tactile my-16 text-center md:text-left">
                     some of my art
              </h1>
                 <div className="grid grid-cols-1 lg:mx-8 lg:gap-x-8 mb-32 ">

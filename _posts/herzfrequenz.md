@@ -1,8 +1,8 @@
 ---
-title: '“Herzfrequenz”–Blümchen (1996)'
+title: '“Herzfrequenz”–Blümchen'
 excerpt: 'This blisteringly optimistic record pings between seemingly disparate moods with a deeply manic energy–jumping from sweet melodies about love and flowers to acid, breakbeat or gabber samples effortlessly.'
 coverImage: '/assets/blog/albums/herzfrequenz.jpg'
-date: '2020-05-01T05:35:07.322Z'
+date: '1996'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'

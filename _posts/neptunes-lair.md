@@ -1,8 +1,8 @@
 ---
-title: '“Neptunes Lair” – Drexciya (1999)'
+title: '“Neptunes Lair” – Drexciya'
 excerpt: 'From the moment you are dropped into the intro’s chanting drone and bubbly speech samples, the deep dark ocean imagery comes to mind easily. Acid-y breakbeat with submarine pings really set this record firmly in a 90s tradition of dance music.'
 coverImage: '/assets/blog/albums/neptuneslair.jpg'
-date: '2020-10-08T05:35:07.322Z'
+date: '1999'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'

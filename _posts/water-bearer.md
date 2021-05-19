@@ -1,8 +1,8 @@
 ---
-title: '“Water Bearer”—Sally Oldfield (1978)'
+title: '“Water Bearer”—Sally Oldfield'
 excerpt: 'A silly, beautiful, and beloved record from 1978.'
 coverImage: '/assets/blog/albums/sally.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '1978'
 author:
   name: Emma
   picture: '/assets/blog/authors/emma.jpeg'
