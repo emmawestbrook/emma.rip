@@ -56,18 +56,21 @@ export default function Arts() {
         <Layout>
             <section className="text-center md:text-left">
                 <h1 className="text-5xl md:text-7xl font-tactile ">
-                    this page is coming soon.
+                    some of my art
              </h1>
-                <div className="grid grid-cols-1 lg:grid-cols-2 lg:mx-8 lg:gap-x-8 gap-y-4 mb-32 ">
+                <div className="grid grid-cols-1 lg:mx-8 lg:gap-x-8 mb-32 ">
                     {artwork.map((art) => (
-                        <div className="border px-4 py-4  border-orange border-dashed">
-                            <div className="mb-5">
-                                <img className="" src={'/assets/artwork/' + art.image} layout='fill' objectFit='contain' sizes='100' />
+                        <div className="border-b-4 px-4 py-4 border-orange border-dashed xl:flex flex-row">
+                            <div className="">
+                                <img className="py-8 max-w-100 max-h-600" src={'/assets/artwork/' + art.image} layout='fill' objectFit='contain' sizes='100' />
 
                             </div>
-                            <h3 className="text-3xl font-mono text-blue">{art.title}</h3>
-                            <div className="text-lg font-tactile">{art.medium}</div>
-                            <div className="text-lg font-tactile">{art.date}</div>
+                            <div className="ml-6 pb-6 xl:pt-16">
+                                <h3 className="text-3xl font-mono text-blue">{art.title}</h3>
+                                <div className="text-lg font-tactile">{art.medium}</div>
+                                <div className="text-lg font-tactile">{art.date}</div>
+                            </div>
+
 
                         </div>
                     ))}
