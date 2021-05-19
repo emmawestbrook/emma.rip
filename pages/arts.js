@@ -60,15 +60,18 @@ export default function Arts() {
              </h1>
                 <div className="grid grid-cols-1 lg:mx-8 lg:gap-x-8 mb-32 ">
                     {artwork.map((art) => (
-                        <div className="border-b-4 px-4 py-4 border-orange border-dashed xl:flex flex-row">
+                        <div className=" px-4 xl:py-4  xl:flex flex-row">
                             <div className="">
-                                <img className="py-8 max-w-100 max-h-600" src={'/assets/artwork/' + art.image} layout='fill' objectFit='contain' sizes='100' />
+                                <img className=" pt-8 xl:py-8 max-w-100 xl:max-w-screen-sm max-h-600" src={'/assets/artwork/' + art.image} layout='fill' objectFit='contain' sizes='100' />
 
                             </div>
-                            <div className="ml-6 pb-6 xl:pt-16">
-                                <h3 className="text-3xl font-mono text-blue">{art.title}</h3>
-                                <div className="text-lg font-tactile">{art.medium}</div>
-                                <div className="text-lg font-tactile">{art.date}</div>
+                            <div className=" xl:pt-24">
+                                <div className=" px-6 py-6 border border-orange border-dashed">
+                                    <h3 className="text-2xl font-mono text-blue">{art.title}</h3>
+                                    <div className="text-lg pt-4 font-tactile">{art.medium}</div>
+                                    <div className="text-xl font-tactile">{art.date}</div>
+                                </div>
+
                             </div>
 
 
